@@ -1,1 +1,1 @@
-Next Js
+Artisan Asad's React NextJS Boilerplate
